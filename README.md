@@ -1,6 +1,3 @@
-Here is a comprehensive, production-ready README.md for your GitHub repository. It includes clear setup instructions, code architecture explanations, and a breakdown of the placeholder methods you have left to implement.
-
-Markdown
 # Custom Image Classifier with PyTorch & Tkinter
 
 A sleek, desktop-based image classification application built using Python, PyTorch, and Tkinter. This application allows users to dynamically add custom classes, copy training images, train a linear classification head on top of a pre-trained ResNet-18 feature extractor, and run single or batch folder predictions.
